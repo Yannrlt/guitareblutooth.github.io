@@ -1,0 +1,31 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://guitareblutooth.github.io
+title: Yann WebSite
+email: yann@gmail.com
+author: Yann
+description: > # Projet Web pour mon transmetteur bluetooth guitare éléctrique
+copyright: 'Copyright &copy; 2017 Yann Big company'
+credits: 'LabSchool is cool'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/barais
+  - title: github
+    url: https://github.com/barais/jscourse
+  - title: linkedin
+    url: https://fr.linkedin.com/in/mark-zuckerberg-92b2077
